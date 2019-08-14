@@ -1,6 +1,10 @@
 #### Multiple Lidar Point Cloud Display and Calibration Tool
 
 ## Build and Execute
+
+The package `lidar_driver` needs to be update by the project [lidar_driver](https://github.com/FengD/lidar_driver)
+
+
 ```
 Generate <Makefile file>. `qmake test.pro`
 Build. `Make`
